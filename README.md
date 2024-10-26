@@ -1,6 +1,6 @@
 # EXNO:4-DS
-## Name : ROHAN J 
-## Reg No : 212223040171
+## Name : AJAY KUMAR T
+## Reg No : 212223047001
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
